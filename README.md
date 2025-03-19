@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Palsikar Mayank</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **react js, flask using python**
+- 🌱 I’m currently learning **machine learning and roboflow usage**
 
 - 💬 Ask me about **programming and web development**
 
